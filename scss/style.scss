@@ -1,0 +1,21 @@
+// start uchun link
+@use './companent/admin/header';
+@use './companent/admin/section';
+@use './companent/admin/team';
+@use './companent/admin/brend';
+@use './companent/admin/hero';
+@use './companent/admin/footer';
+
+// portfolio uchun
+@use './companent/portfolio/works';
+
+// contact uchun
+@use './companent/contact/massage.scss';
+
+// services uchun 
+@use './companent/services/price';
+
+// normal uchun link
+@use './mixins';
+@use './normal';
+@use './variables';
